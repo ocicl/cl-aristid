@@ -1,0 +1,10 @@
+* cl-aristid
+
+Draw Lindenmayer Systems with Common LISP! -- Trabajo para [7531] Teoría del Lenguaje (FIUBA))
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/FdelMazo/cl-aristid.git   |
+| commit  | d26c642  |
+| systems | cl-aristid |
+|---------+-------------------------------------------|
+
